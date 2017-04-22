@@ -1,0 +1,10 @@
+package cards;
+
+public enum TradeCard implements Card{
+	COMMERCIAL_HARBOR,
+	MASTER_MERCHANT,
+	MERCHANT,
+	MERCHANT_FLEET,
+	RESOURCE_MONOPOLY,
+	TRADE_MONOPOLY
+}
